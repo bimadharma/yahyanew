@@ -13,7 +13,6 @@ begin
         writeln('membuat program pascal dengan menggunakan operator aritmatika');
         write('masukan nilai a: ');readln(a);
         write('masukan nilai b: ');readln(b);
-
         writeln(' ');
         textcolor(lightred);
         c := a+b;
